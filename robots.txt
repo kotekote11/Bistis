@@ -1,1 +1,3 @@
-
+User-agent: *
+Host: https://bistis.ru/
+Sitemap: https://bistis.ru/sitemap.xml
